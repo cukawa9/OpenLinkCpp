@@ -1,0 +1,12 @@
+*.exe
+*.pch
+*.obj
+Debug
+Release
+*.pdb
+*.log
+*.ipch
+*.opendb
+*.db-shm
+*.db-wal
+*.ilk
