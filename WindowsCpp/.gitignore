@@ -11,3 +11,4 @@ Release
 *.db-wal
 *.ilk
 OpenLink/Debug
+.vs/WindowsCpp/v15/Browse.VC.db
