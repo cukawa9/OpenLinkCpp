@@ -10,3 +10,4 @@ Release
 *.db-shm
 *.db-wal
 *.ilk
+OpenLink/Debug

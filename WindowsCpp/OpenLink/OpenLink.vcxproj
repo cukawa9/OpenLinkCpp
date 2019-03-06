@@ -97,8 +97,8 @@
       <AdditionalDependencies>Shell32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
     <PostBuildEvent>
-      <Command>xcopy /y "C:\GitRepo\OpenLinkCpp\WindowsCpp\Debug\OpenLink.dll" "C:\GitRepo\OpenLinkCpp\WindowsCpp\Test"
-xcopy /y "C:\GitRepo\OpenLinkCpp\WindowsCpp\Debug\OpenLink.lib" "C:\GitRepo\OpenLinkCpp\WindowsCpp\Test"</Command>
+      <Command>xcopy /y "C:\GitRepo\OpenLinkCpp\WindowsCpp\Debug\OpenLink.dll" "C:\GitRepo\OpenLinkCpp\WindowsCpp\OpenUrl"
+xcopy /y "C:\GitRepo\OpenLinkCpp\WindowsCpp\Debug\OpenLink.lib" "C:\GitRepo\OpenLinkCpp\WindowsCpp\OpenUrl"</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
